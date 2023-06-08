@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Joseph 👋
+
+- ⛳ I’m interested in Python, NLP, and learning in general
+- 🌱 I’m currently learning and developing my skills in Time Series Forecasting, NLP, and MLOps
+- 👯 I’m looking to collaborate on classification and time series problems
+
 
 <!--
 **TheLastMonolith/TheLastMonolith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
