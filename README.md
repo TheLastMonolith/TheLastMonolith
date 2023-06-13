@@ -1,7 +1,7 @@
 ### Hi there, I'm Joseph 👋
 
 - ⛳ I’m interested in Python, NLP, GPT, and learning in general
-- 🌱 I’m currently learning and developing my skills in Time Series Forecasting, NLP, and MLOps
+- 🌱 I’m currently learning and developing my skills in Time Series Forecasting, NLP, and Gen AI.
 - 👯 I’m looking to collaborate on classification and time series problems
 
 
